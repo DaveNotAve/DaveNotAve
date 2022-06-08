@@ -10,10 +10,11 @@
 
 ### Contact me : 
 
-[<img align="left" alt="Phantom | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/DaveNotAve)
+[<img align="left" alt="DaveNotAve | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/DaveNotAve)
 <a href="https://dsc.gg/DaveNotAve">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+[<img align="left" alt="DaveNotAve | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/DaveNotAve/)
 
 <!--
 **DaveNotAve/DaveNotAve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
