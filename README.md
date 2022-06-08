@@ -1,12 +1,19 @@
 ### Hi, I'm [Dave](https://youtube.com/DaveNotAve)
+[YouTuber](https://youtube.com)
 
-- 📫 How to reach me? [Click here to reach Dave!](https:lnk.bio/DaveNotAve)
+- 📫 How to reach me? [Click Here!](https:lnk.bio/DaveNotAve)
 
 ### Discord Status
 <a href="https://discordapp.com/users/764298950608945193">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/764298950608945193.png" />
 </a>
 
+### Contact me : 
+
+[<img align="left" alt="Phantom | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/DaveNotAve)
+<a href="https://dsc.gg/DaveNotAve">
+  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 <!--
 **DaveNotAve/DaveNotAve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
