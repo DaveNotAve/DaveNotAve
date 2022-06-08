@@ -1,6 +1,6 @@
 ### Hi, I'm [Dave](https://youtube.com/DaveNotAve)
 
-- 📫 How to reach me? [Click here to reach Dave!](https:lnk.bio/DaveNotAve
+- 📫 How to reach me? [Click here to reach Dave!](https:lnk.bio/DaveNotAve)
 
 ### Discord Status
 <a href="https://discordapp.com/users/764298950608945193">
