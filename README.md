@@ -21,7 +21,7 @@
 ![D(2)](https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png)
 
 
-[<img align="left" alt="DaveNotAve | YouTube" width="22px" src="https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png)" />](https://www.youtube.com/DaveNotAve)
+[<img align="left" width="22px" src="https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png)" />](https://dsc.gg/David)
 
 <!--
 **DaveNotAve/DaveNotAve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
