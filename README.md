@@ -1,8 +1,8 @@
 ### Hi, I'm [Dave](https://youtube.com/DaveNotAve)
 [YouTuber](https://youtube.com) | [Coder via Replit](https://repl.it)
 
-- 🔭 I’m currently working at [DaveNotAve Discord Server](https://dsc.gg/DaveNotAve)
-- 🌱 I’m currently learning [Node.js](https://nodejs.org)
+- 🔭 I’m currently working at [DaveNotAve Discord Server](https://dsc.gg/DaveNotAve) | Join now our community server!
+- 🌱 I’m currently learning [Node.js](https://nodejs.org) & [Discord.js](https://discord.js.org)
 - 💬 Ask me about Bible!
 - 😄 Pronouns: Deyb
 - ⚡ Fun fact: I'm forking Codes
