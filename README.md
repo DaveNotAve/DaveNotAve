@@ -23,7 +23,7 @@
 </a>
 
 My Created
-- [David](https://dsc.gg/DavidBot
+- [David](https://dsc.gg/DavidBot)
 
 
 
