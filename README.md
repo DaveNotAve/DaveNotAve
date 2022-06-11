@@ -18,7 +18,7 @@
 
 ### Discord Bot Created
 
-![David](https://dsc.gg/DavidBot)
+[David](https://dsc.gg/DavidBot)
 
 
 <!--
