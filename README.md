@@ -17,7 +17,7 @@
 [<img align="left" alt="DaveNotAve | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/DaveNotAve/)
 </a>
 
-### Discord Bot
+Discord Bot Created
 
 [David](https://dsc.gg/DavidBot)
 
