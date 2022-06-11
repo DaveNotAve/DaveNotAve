@@ -15,8 +15,9 @@
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 [<img align="left" alt="DaveNotAve | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/DaveNotAve/)
+</a>
 
-### Discord Bot Created
+### Discord Bot
 
 [David](https://dsc.gg/DavidBot)
 
