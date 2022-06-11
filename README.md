@@ -13,8 +13,8 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/764298950608945193.png" />
 </a>
 
-### My Created
-- [David](https://dsc.gg/DavidBot)
+### I Created
+- [David](https://dsc.gg/DavidBot) Discord Bot! | The High Quality and Easiest Discord Music Bot!
 
 ### Contact me : 
 
