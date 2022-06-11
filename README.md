@@ -18,7 +18,7 @@
 </a>
 
 ### [Discord Bot Created](https://discord.com)
-![David](https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png)
+![https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png](https://dsc.gg/David)
 
 
 
