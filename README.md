@@ -1,6 +1,11 @@
 ### Hi, I'm [Dave](https://youtube.com/DaveNotAve)
 [YouTuber](https://youtube.com) | [Coder via Replit](https://repl.it)
 
+- 🔭 I’m currently working at [DaveNotAve Discord Server](https://dsc.gg/DaveNotAve)
+- 🌱 I’m currently learning [Node.js](https://nodejs.org)
+- 💬 Ask me about Bible!
+- 😄 Pronouns: Deyb
+- ⚡ Fun fact: I'm forking Codes
 - 📫 How to reach me? [Click Here!](https://lnk.bio/DaveNotAve)
 
 ### Discord Status
@@ -18,11 +23,6 @@
 </a>
 
 
-Discord Bot Created
-![D(2)](https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png)
-
-
-[David](https://dsc.gg/DavidBot)
 
 <!--
 **DaveNotAve/DaveNotAve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
