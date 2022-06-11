@@ -18,7 +18,10 @@
 </a>
 
 ### [Discord Bot Created](https://discord.com)
-[David](https://dsc.gg/DaveNotAve)
+![David](https://user-images.githubusercontent.com/95347336/173171773-9a14fac6-fa0e-476d-a642-7a108fe10ac2.png)
+
+
+
 
 <!--
 **DaveNotAve/DaveNotAve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
