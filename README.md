@@ -1,5 +1,5 @@
 ### Hi, I'm [Dave](https://youtube.com/DaveNotAve)
-[YouTuber](https://youtube.com) | [Coder via Replit](https://repl.it)
+[YouTuber](https://youtube.com) | Coder via [Replit](https://repl.it)
 
 - 🔭 I’m currently working at [DaveNotAve Discord Server](https://dsc.gg/DaveNotAve) | Join now our community server!
 - 🌱 I’m currently learning [Node.js](https://nodejs.org) & [Discord.js](https://discord.js.org)
